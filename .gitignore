@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Legal Monitor — banco local e exportações
+*.db
+*.db-journal
+data/*.sqlite
+exports/
